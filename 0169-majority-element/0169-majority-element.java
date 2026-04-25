@@ -1,6 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        
+       // Boyer-Moore Voting Algorithm 
         int n=nums.length;
        int c=0;
        int num=0;
