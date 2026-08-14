@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hemanthreddy16/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanthreddy16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hemanthreddy16/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2706-buy-two-chocolates](https://github.com/hemanthreddy16/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hemanthreddy16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/hemanthreddy16/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hemanthreddy16/Leetcode/tree/master/0268-missing-number) |
+| [2706-buy-two-chocolates](https://github.com/hemanthreddy16/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hemanthreddy16/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2706-buy-two-chocolates](https://github.com/hemanthreddy16/Leetcode/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
