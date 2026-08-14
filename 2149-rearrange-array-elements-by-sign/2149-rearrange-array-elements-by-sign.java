@@ -18,7 +18,7 @@ class Solution {
 
         }
         
-            for(int i=0;i<n1.length;i++){
+            for(int i=0;i<n/2;i++){
                 nums[2*i]=n2[i];
                 nums[2*i+1]=n1[i];
 
