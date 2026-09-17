@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hemanthreddy16/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hemanthreddy16/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/hemanthreddy16/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/hemanthreddy16/Leetcode/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanthreddy16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hemanthreddy16/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/hemanthreddy16/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hemanthreddy16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/hemanthreddy16/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hemanthreddy16/Leetcode/tree/master/0268-missing-number) |
+| [1094-car-pooling](https://github.com/hemanthreddy16/Leetcode/tree/master/1094-car-pooling) |
 | [2706-buy-two-chocolates](https://github.com/hemanthreddy16/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemanthreddy16/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1094-car-pooling](https://github.com/hemanthreddy16/Leetcode/tree/master/1094-car-pooling) |
 ## Quickselect
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hemanthreddy16/Leetcode/tree/master/0054-spiral-matrix) |
+| [1094-car-pooling](https://github.com/hemanthreddy16/Leetcode/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanthreddy16/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/hemanthreddy16/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/hemanthreddy16/Leetcode/tree/master/1094-car-pooling) |
 ## Quicksort
 |  |
 | ------- |
