@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hemanthreddy16/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hemanthreddy16/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanthreddy16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddy16/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hemanthreddy16/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hemanthreddy16/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hemanthreddy16/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanthreddy16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddy16/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/hemanthreddy16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hemanthreddy16/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/hemanthreddy16/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddy16/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/hemanthreddy16/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
